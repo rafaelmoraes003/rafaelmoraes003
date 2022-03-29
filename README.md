@@ -1,4 +1,4 @@
-## Olá, eu sou o Rafale Moraes!
+## Olá, eu sou o Rafael Moraes!
 
 <div align="center">
   <a href="https://github.com/rafaelmoraes003">
