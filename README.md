@@ -1,14 +1,14 @@
 ## Olá, eu sou o Rafael Moraes! 📚 🚀
 
-<div align="start">
+<div align="start" style="margin: 0 auto">
   <a href="https://github.com/rafaelmoraes003">
-  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=rafaelmoraes003&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmoraes003&layout=compact&langs_count=7&theme=merko"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=rafaelmoraes003&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmoraes003&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
 ## Skills
   
-<div style="display: inline_block"><br>
+<div style="display: inline_block, justifyContent"><br>
   <img align="center" alt="rafael-js" height="80" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="rafael-react" height="80" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="rafael-redux" height="80" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
