@@ -1,4 +1,4 @@
-<h1 align="left">Hello, I am Rafael Moraes! 😄</h1>
+<h1 align="left">Hi there, I am Rafael Moraes! 😄</h1>
 
 ###
 <div align="left">
