@@ -12,7 +12,7 @@ const me = {
   age: '19',
   stack: 'Full-Stack Developer',
   interests: ['Programming', 'Learn new things', 'Video Games', 'Sports'],
-  phone: '+55 (12) 98282-8144',
+  currentlyLearning: 'MongoDB',
 }
 ```
 
