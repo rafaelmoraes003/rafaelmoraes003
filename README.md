@@ -7,7 +7,7 @@
 ###
 
 ```
-const rafael = {
+const me = {
   name: 'Rafael Silva Moraes',
   age: '19',
   stack: 'Full-Stack Developer',
