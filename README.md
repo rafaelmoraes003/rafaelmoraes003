@@ -9,7 +9,7 @@
 ```
 const me = {
   name: 'Rafael Silva Moraes',
-  age: '19',
+  age: 19,
   stack: 'Full-Stack Developer',
   interests: ['Programming', 'Learn new things', 'Video Games', 'Sports'],
   currentlyLearning: 'MongoDB',
