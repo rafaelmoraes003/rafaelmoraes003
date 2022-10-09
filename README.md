@@ -10,7 +10,7 @@
 const me = {
   name: 'Rafael Silva Moraes',
   age: 19,
-  location: 'Ubatuba, São Paulo - Brazil'
+  location: 'Ubatuba, São Paulo - Brazil',
   stack: 'Full-Stack Developer',
   interests: ['Programming', 'Learn new things', 'Video Games', 'Sports'],
   currentlyLearning: 'MongoDB',
