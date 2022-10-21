@@ -13,7 +13,7 @@ const me = {
   location: 'Ubatuba, São Paulo - Brazil',
   stack: 'Full-Stack Developer',
   interests: ['Programming', 'Learn new things', 'Video Games', 'Sports'],
-  currentlyLearning: 'MongoDB',
+  currentlyLearning: 'Mongoose',
 }
 ```
 
