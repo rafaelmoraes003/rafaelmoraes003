@@ -7,7 +7,7 @@
 ###
 
 ```
-const me = {
+const aboutMe = {
   name: 'Rafael Silva Moraes',
   age: 19,
   location: 'Ubatuba, São Paulo - Brazil',
