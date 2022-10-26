@@ -12,7 +12,7 @@ const aboutMe = {
   age: 19,
   location: 'Ubatuba, São Paulo - Brazil',
   stack: 'Full-Stack Developer',
-  interests: ['Programming', 'Learn new things', 'Video Games', 'Sports'],
+  interests: ['Programming', 'Video Games', 'Sports'],
   currentlyLearning: 'Mongoose',
 }
 ```
