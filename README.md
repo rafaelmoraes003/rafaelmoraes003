@@ -75,7 +75,7 @@ const aboutMe = {
 
 ###
 
-<h1 align="left">Some of the musics I like</h1>
+<h1 align="left">Some of the Musics I Like</h1>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12186228211)
 
