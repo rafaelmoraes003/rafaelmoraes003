@@ -75,9 +75,5 @@ const aboutMe = {
 
 ###
 
-<h1 align="left">Some of the Musics I Like</h1>
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12186228211)
-
 ##  
 ![Snake animation](https://github.com/rafaelmoraes003/rafaelmoraes003/blob/output/github-contribution-grid-snake.svg)
