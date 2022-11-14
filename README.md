@@ -6,7 +6,7 @@
 
 ###
 
-```
+```JavaScript
 const aboutMe = {
   name: 'Rafael Silva Moraes',
   age: 19,
