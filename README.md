@@ -13,7 +13,7 @@ const aboutMe = {
   location: 'Ubatuba, São Paulo - Brazil',
   stack: 'Full-Stack Developer',
   interests: ['Programming', 'Video Games', 'Sports'],
-  currentlyLearning: 'Mongoose',
+  currentlyLearning: 'Python',
 }
 ```
 
