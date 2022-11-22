@@ -24,8 +24,8 @@ const aboutMe = {
 </div> -->
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&username=rafaelmoraes003" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=false&username=rafaelmoraes003" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&username=rafaelmoraes003" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=false&username=rafaelmoraes003" height="160" alt="languages graph"  />
 </div>
 
 ###
