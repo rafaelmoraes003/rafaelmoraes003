@@ -24,6 +24,8 @@ const aboutMe = {
 
 ###
 
+![Contribution](https://activity-graph.herokuapp.com/graph?username=rafaelmoraes003&theme=react&hide_border=true&area=true)
+
 ###
 
 
