@@ -52,6 +52,7 @@ const aboutMe = {
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
 ![Chai](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
 ![Sinon](https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon)
+![Pytest](https://img.shields.io/badge/pytest-%23323330.svg?style=for-the-badge&logo=pytest&logoColor=%23F7DF1E)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%23007ACC.svg?style=for-the-badge&logo=docker&logoColor=white)
 
