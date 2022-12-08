@@ -8,12 +8,12 @@
 
 ```JavaScript
 const aboutMe = {
-  name: 'Rafael Silva Moraes',
+  name: "Rafael Silva Moraes",
   age: 19,
-  location: 'Ubatuba, São Paulo - Brazil',
-  stack: 'Full-Stack Developer',
-  interests: ['Programming', 'Video Games', 'Sports'],
-  currentlyLearning: 'Python',
+  location: "Ubatuba, São Paulo - Brazil",
+  stack: "Full-Stack Developer",
+  mainSkills: ["JavaScript", "TypeScript", "React.js", "Node.js"],
+  currentlyLearning: "Python",
 }
 ```
 
