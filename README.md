@@ -13,7 +13,7 @@ const aboutMe = {
   location: "Ubatuba, São Paulo - Brazil",
   stack: "Full-Stack Developer",
   mainSkills: ["JavaScript", "TypeScript", "React.js", "Node.js"],
-  currentlyLearning: "Python",
+  currentlyLearning: "Design Patterns",
 }
 ```
 
