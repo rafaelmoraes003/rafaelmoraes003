@@ -12,8 +12,8 @@ const aboutMe = {
   age: 19,
   location: "Ubatuba, São Paulo - Brazil",
   stack: "Full-Stack Developer",
-  mainSkills: ["JavaScript", "TypeScript", "React.js", "Node.js"],
-  currentlyLearning: "Algorithms",
+  mainSkills: ["JavaScript", "TypeScript", "Python", "React.js", "Node.js"],
+  currentlyLearning: "Data Structures",
 }
 ```
 
