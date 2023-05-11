@@ -7,11 +7,10 @@
 ###
 
 ## **💾 About me:**
-* My name is Rafael Moraes
-* Full Stack Developer
-* Analyst Developer at [Cogny](https://www.linkedin.com/company/cogny/)
-* I'm good with TypeScript <img alt="typescript logo" src="https://www.typescriptlang.org/favicon.ico" height="16">, React <img alt="react logo" src="https://www.reactjs.org/favicon.ico" height="16">, Node.js <img alt="nodejs logo" src="https://nodejs.org/favicon.ico" height="16">, MySQL 🐬, MongoDB <img alt="mongodb logo" src="https://www.mongodb.com/favicon.ico" height="16"> and Docker 🐋
-
+- My name is Rafael Moraes
+- Full Stack Developer
+- Analyst Developer at [Cogny](https://www.linkedin.com/company/cogny/)
+- I'm good with **TypeScript**, **React**, **Node.js**, **MySQL**, **MongoDB** and **Docker**
 
 ###
 
