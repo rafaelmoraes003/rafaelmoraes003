@@ -17,16 +17,6 @@ const aboutMe = {
 }
 ```
 
-<div align="left">
-  
- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rafaelmoraes003&show_icons=true&theme=react&include_all_commits=true&count_private=true" height="160" alt="stats graph"/>
-  
- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rafaelmoraes003&layout=compact&langs_count=6&theme=react" height="160" alt="languages graph"/>
-  
-</div>
-
-###
-
 <h1 align="left">Skills</h1>
 
 ###
@@ -67,6 +57,16 @@ const aboutMe = {
   </a>
 </div>
 
+###
+<div align="left">
+  
+ <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rafaelmoraes003&show_icons=true&theme=react&include_all_commits=true&count_private=true" height="160" alt="stats graph"/>
+  
+ <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rafaelmoraes003&layout=compact&langs_count=6&theme=react" height="160" alt="languages graph"/>
+  
+</div>
+
+###
 ###
 
 ##  
