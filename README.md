@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="left">About Me</h1>
+<h1 align="left">💾 About Me</h1>
 
 - 19 years old
 - Full Stack Developer
@@ -15,7 +15,7 @@
 
 ###
 
-<h1 align="left">Skills</h1>
+<h1 align="left">🛠️ Skills</h1>
 
 ###
 
@@ -43,7 +43,7 @@
 ![Docker](https://img.shields.io/badge/docker-%23007ACC.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ###
-<h1 align="left">Contact Me</h1>
+<h1 align="left">📬 Contact Me</h1>
 
 ###
 <div align="left">
@@ -57,7 +57,7 @@
 
 ###
 
-<h1 align="left">Stats</h1>
+<h1 align="left">📊 Stats</h1>
 
 <div align="left">
   
