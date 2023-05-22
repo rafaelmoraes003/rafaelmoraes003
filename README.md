@@ -10,7 +10,7 @@
 
 - 19 years old
 - Full Stack Developer
-- Developer Analyst at [Cogny](https://www.linkedin.com/company/cogny/)
+- Developer Analyst at [Cogny]([https://www.linkedin.com/company/cogny/](https://github.com/CognyHub))
 - I'm good with **TypeScript**, **React**, **Node.js**, **MySQL**, **MongoDB** and **Docker**
 
 ###
