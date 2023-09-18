@@ -8,7 +8,6 @@
 
 <h1 align="left">💾 About Me</h1>
 
-- 19 years old
 - Full Stack Developer
 - Software Developer at [Cogny](https://github.com/CognyHub)
 - I'm good with **TypeScript**, **React**, **Node.js**, **MySQL**, **MongoDB** and **Docker**
