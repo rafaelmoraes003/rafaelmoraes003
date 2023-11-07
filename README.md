@@ -6,13 +6,15 @@
 
 ###
 
-<h1 align="left">💾 About Me</h1>
+<!--- <h1 align="left">💾 About Me</h1>
 
 - Full Stack Developer
 - Software Developer at [Cogny](https://github.com/CognyHub)
 - I'm good with **TypeScript**, **React**, **Node.js**, **MySQL**, **MongoDB** and **Docker**
 
 ###
+
+-->
 
 <h1 align="left">🛠️ Skills</h1>
 
@@ -57,7 +59,7 @@
 
 ###
 
-<h1 align="left">📊 Stats</h1>
+<!--- <h1 align="left">📊 Stats</h1>
 
 <div align="left">
   
@@ -70,5 +72,3 @@
 ###
 ###
 
-##  
-![snake animation](https://github.com/rafaelmoraes003/rafaelmoraes003/blob/output/github-contribution-grid-snake2.svg)
