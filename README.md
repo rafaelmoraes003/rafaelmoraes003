@@ -16,7 +16,7 @@
 
 -->
 
-<h1 align="left">🛠️ Skills</h1>
+<h1 align="left">Skills</h1>
 
 ###
 
@@ -45,7 +45,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ###
-<h1 align="left">📬 Contact Me</h1>
+<h1 align="left">Contact Me</h1>
 
 ###
 <div align="left">
