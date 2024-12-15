@@ -3,17 +3,7 @@
 <h1 align="left">Skills</h1>
 
 ###
-[![Languages](https://skillicons.dev/icons?i=java,spring,hibernate,kafka&theme=dark)](https://skillicons.dev)
-<br />
-[![Back-end](https://skillicons.dev/icons?i=typescript,nodejs,nest,sequelize&theme=dark)](https://skillicons.dev)
-<br />
-[![Front-end](https://skillicons.dev/icons?i=react,html,css&theme=dark)](https://skillicons.dev)
-<br />
-[![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase&theme=dark)](https://skillicons.dev)
-<br />
-[![Tools](https://skillicons.dev/icons?i=git,docker,kubernetes&theme=dark)](https://skillicons.dev)
-<br />
-[![Cloud](https://skillicons.dev/icons?i=aws&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,spring,hibernate,kafka,typescript,nodejs,nest,sequelize,react,html,css,mysql,postgres,mongodb,firebase,git,docker,kubernetes,aws&theme=dark)](https://skillicons.dev)
 
 
 ###
